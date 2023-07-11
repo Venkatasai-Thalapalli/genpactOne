@@ -1,0 +1,8 @@
+C:\Genpact\Day 2\ConAppMethod\ConAppMethod\bin\Debug\ConAppMethod.exe.config
+C:\Genpact\Day 2\ConAppMethod\ConAppMethod\bin\Debug\ConAppMethod.exe
+C:\Genpact\Day 2\ConAppMethod\ConAppMethod\bin\Debug\ConAppMethod.pdb
+C:\Genpact\Day 2\ConAppMethod\ConAppMethod\obj\Debug\ConAppMethod.csproj.AssemblyReference.cache
+C:\Genpact\Day 2\ConAppMethod\ConAppMethod\obj\Debug\ConAppMethod.csproj.SuggestedBindingRedirects.cache
+C:\Genpact\Day 2\ConAppMethod\ConAppMethod\obj\Debug\ConAppMethod.csproj.CoreCompileInputs.cache
+C:\Genpact\Day 2\ConAppMethod\ConAppMethod\obj\Debug\ConAppMethod.exe
+C:\Genpact\Day 2\ConAppMethod\ConAppMethod\obj\Debug\ConAppMethod.pdb
